@@ -1,0 +1,6 @@
+{
+  "name": "PinyinMaster - Học Tiếng Trung & Phát Âm Pinyin Chuẩn",
+  "description": "Ứng dụng học tiếng Trung giản thể và luyện phát âm Pinyin chuẩn ngữ âm học với hình ảnh minh họa cách đặt lưỡi khẩu hình miệng, bài tập luyện nghe và chấm điểm phát âm hàng ngày.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
